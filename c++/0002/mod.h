@@ -1,0 +1,3 @@
+struct Mod {
+  int num();
+};
