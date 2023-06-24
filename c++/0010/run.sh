@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Compile
-g++ ./main.cc -o ./main.out
+g++ ./main.cpp -o ./main.out
 
 # Run!
 ./main.out
