@@ -14,6 +14,7 @@ int main()
     {
         writable << "\nI am adding a line.\n";
         writable << "I am adding another line\n";
+        writable << "Hola Amigo!\n";
         writable.close();
     }
     else
