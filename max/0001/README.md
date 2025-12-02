@@ -1,0 +1,1 @@
+https://www.kadenze.com/courses/max-msp-programming-course-structuring-interactive-software-for-digital-arts/sessions/introduction
