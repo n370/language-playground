@@ -1,6 +1,4 @@
 *
-target
-!/**/
 !src/**/*.rs
 !Cargo.toml
 !.gitignore
